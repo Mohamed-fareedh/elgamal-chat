@@ -13,7 +13,6 @@ def Handler(_sock):
             print(e)
             break
 
-
 if __name__ == '__main__':
     socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     HOST = '127.0.0.1'

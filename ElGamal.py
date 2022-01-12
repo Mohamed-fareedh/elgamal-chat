@@ -7,7 +7,6 @@
 
 from Crypto.Util import number
 
-
 def gen_key(bits):
     """
     鍵生成
